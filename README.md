@@ -27,5 +27,4 @@ try {
 }
 ```
 ---
-
-**技术支持**：访问 [StockTV 官方文档](https://stocktv.top/) 或 [联系StockTV客服](https://t.me/CryptoRzz)
+**技术支持**：访问 [StockTV 官方文档](https://pao.stocktv.top/) 或 [联系StockTV客服](https://t.me/stocktvpaopao)
